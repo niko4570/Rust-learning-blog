@@ -2,7 +2,7 @@
 
 ## A Beginner’s Rust Notes — Now Open Source!
 
-I started learning Rust a few months ago… and it was _hard_.  
+I started learning Rust a few days ago… and it was _hard_.  
 So I made these notes **for people like me** — beginners who get stuck on ownership, lifetimes, or "why does this not compile?!"
 
 ### What’s Inside (So Far)
